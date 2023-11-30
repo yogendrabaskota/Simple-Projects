@@ -5,9 +5,4 @@ You can easily runs these project on your computer, which only need IDE for html
 No any external software are required for these project. 
 
 
-# Alarm clock
 
-<div align="center">
-<img src="preview.png"/> 
-</br>
-</div>
